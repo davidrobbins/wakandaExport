@@ -1,0 +1,38 @@
+2012-12-13 11:37:28 [com.wakanda-software.wakandaExport] INFO - Opening the solution
+2012-12-13 11:37:28 [com.wakanda-software.wakandaExport] INFO - Opening the users and groups directory
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport] INFO - Users and groups directory opened (duration: 89 ms)
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport.wakandaExport] INFO - Opening the project
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport.wakandaExport] INFO - Opening the database
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport.wakandaExport] INFO - Database opened (duration: 4 ms)
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport.wakandaExport] INFO - Project opened (duration: 17 ms)
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport.ServerAdmin] INFO - Opening the project
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport.ServerAdmin] INFO - Project opened (duration: 21 ms)
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport] INFO - Solution opened (duration: 160 ms)
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport] INFO - Starting the solution
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport.wakandaExport] INFO - Starting the project
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport.wakandaExport] INFO - Starting the HTTP server
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport.wakandaExport] INFO - HTTP server started (duration: 28 ms)
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport.wakandaExport] INFO - Project started (duration: 74 ms)
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport.ServerAdmin] INFO - Starting the project
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport.ServerAdmin] INFO - Starting the HTTP server
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport.ServerAdmin] INFO - HTTP server started (duration: 30 ms)
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport.ServerAdmin] INFO - Project started (duration: 73 ms)
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport.wakandaExport] INFO - Executing the bootstrap(s)
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport.wakandaExport] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
+2012-12-13 11:37:29 [com.wakanda-software.wakandaExport] INFO - Solution started (duration: 157 ms)
+2012-12-13 11:54:16 [com.wakanda-software.wakandaExport] INFO - Stopping the solution
+2012-12-13 11:54:16 [com.wakanda-software.wakandaExport.wakandaExport] INFO - Stopping the project
+2012-12-13 11:54:17 [com.wakanda-software.wakandaExport.wakandaExport] INFO - Project stopped (duration: 1057 ms)
+2012-12-13 11:54:17 [com.wakanda-software.wakandaExport.ServerAdmin] INFO - Stopping the project
+2012-12-13 11:54:19 [com.wakanda-software.wakandaExport.ServerAdmin] INFO - Project stopped (duration: 2061 ms)
+2012-12-13 11:54:19 [com.wakanda-software.wakandaExport] INFO - Solution stopped (duration: 3119 ms)
+2012-12-13 11:54:19 [com.wakanda-software.wakandaExport] INFO - Closing the solution
+2012-12-13 11:54:19 [com.wakanda-software.wakandaExport.wakandaExport] INFO - Closing the project
+2012-12-13 11:54:19 [com.wakanda-software.wakandaExport.wakandaExport] INFO - Closing the database
+2012-12-13 11:54:20 [com.wakanda-software.wakandaExport.wakandaExport] INFO - Database closed (duration: 458 ms)
+2012-12-13 11:54:20 [com.wakanda-software.wakandaExport.wakandaExport] INFO - Project closed (duration: 460 ms)
+2012-12-13 11:54:20 [com.wakanda-software.wakandaExport.ServerAdmin] INFO - Closing the project
+2012-12-13 11:54:20 [com.wakanda-software.wakandaExport.ServerAdmin] INFO - Project closed (duration: 1 ms)
+2012-12-13 11:54:20 [com.wakanda-software.wakandaExport] INFO - Solution closed (duration: 868 ms)
