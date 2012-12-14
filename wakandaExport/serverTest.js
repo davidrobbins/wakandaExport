@@ -1,0 +1,1 @@
+﻿// Collection of citiesvar cities = ds.City.all();cities
