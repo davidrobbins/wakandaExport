@@ -1,4 +1,4 @@
 wakandaExport
 =============
 
-A simple client interface for exporting data
+A simple example showing you how to let the user export the data from a dataclass to a CSV file.
