@@ -10,9 +10,18 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 	exportButton.click = function exportButton_click (event)// @startlock
 	{// @endlock
 		//Export cities
-		var cityURL = window.location.href;
-		var cityPathname = window.location.pathname;
-		var exportURL = cityURL.replace(cityPathname, '');
+		var cityURL = window.location.href,
+			cityPathname = window.location.pathname,
+			exportURL;
+		
+		if (cityPathname.indexOf("index") != -1) {
+			exportURL = cityURL.replace(cityPathname, '');
+			exportURL += "/exportCities";
+		} else {
+			exportURL = cityURL;
+			exportURL += "exportCities";
+		}
+		
 		
 		iframe = $("#iframeexport");
 		if (iframe.length === 0) {
@@ -20,7 +29,7 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 			iframe = $("#iframeexport");
 		}
 		iframe.hide();
-		iframe.attr("src", exportURL + "/exportCities");
+		iframe.attr("src", exportURL);
 	};// @lock
 
 // @region eventManager// @startlock
